@@ -18,4 +18,4 @@ python3 -m http.server 8000
 `index.html`을 고친 뒤 `main` 브랜치에 push하면 GitHub Pages가 자동으로 배포합니다 (Actions 탭에서 확인).
 
 ## Credits
-템플릿 없이 HTML/CSS로 직접 작성했습니다.
+템플릿 없이 HTML/CSS로 직접 작성했습니다. 사이트 초안 작성에 AI(Claude)의 도움을 받았습니다.
